@@ -11,5 +11,6 @@ public class posneg {
         }else{
             System.out.println("it is equal to zero");
         }
+        sc.close();
     }
 }
